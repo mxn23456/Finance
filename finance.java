@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//test from Minh
+//test from Minh test
 
 public class finance
 {
